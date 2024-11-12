@@ -8,5 +8,6 @@ This is a question answering app using streamlit to answer any questions related
 
 ## YouTube:
 
+Watch the tutorial on YouTube:
 
 ![watch the video](https://github.com/Dorcatz123/Semantic-Search-with-harry-Potter/blob/main/semantic_similarity%20distillbert/images.jpg)(https://www.youtube.com/watch?v=ves5Fj6lW7Y&t=164s)
