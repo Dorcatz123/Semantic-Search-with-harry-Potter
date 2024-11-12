@@ -2,7 +2,7 @@
 
 ![Harry-Potter](https://github.com/Dorcatz123/Semantic-Search-with-harry-Potter/blob/main/semantic_similarity%20distillbert/harry.jpg)
 
-This is a question answering app using streamlit to answer any question related to Harry potter. It uses sentence transformers to embed a given document and the user query to do a semantic serach on the embedded vectors(documents) to retrieve the answer.
+This is a question answering app using streamlit to answer any question related to Harry potter. It uses sentence transformers to embed a given document and the user query to do a semantic search on the embedded vectors(documents) to retrieve the answer.
 
  **Run the command**:
    ```cmd
