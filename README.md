@@ -8,7 +8,7 @@ This is a question answering app using streamlit to answer any question related 
    ```cmd
    streamlit run harry.py
    ```
-You can use the harry.ods file to upload in the app but there is no restriction on the document content that can be used for this app, just make sure its an ods file. You can tweak the code to make it accept any other file format.
+You can use the harry.ods file to upload in the app but there is no restriction on the document that can be used for this app, just make sure its an ods file. You can tweak the code to make it accept any other file format.
 
 ## YouTube:
 
