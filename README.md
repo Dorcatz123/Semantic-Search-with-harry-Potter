@@ -4,8 +4,11 @@
 
 This is a question answering app using streamlit to answer any question related to Harry potter. It uses sentence transformers to embed a given document and the user query to do a semantic serach on the embedded vectors(documents) to retrieve the answer.
 
-## Run the command:
-streamlit run harry.py
+ **Run the command**:
+   ```cmd
+   streamlit run harry.py
+   ```
+You can use the harry.ods file to upload in the app but there is no restrictions on the file that can be used for this app, just make sure its an ods file. You can tweak the code to make it accept any other file format.
 
 ## YouTube:
 
