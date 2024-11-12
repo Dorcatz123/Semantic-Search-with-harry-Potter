@@ -9,4 +9,4 @@ This is a question answering app using streamlit to answer any questions related
 ## YouTube:
 
 
-![watch the video](https://img.youtube.com/vi/ves5Fj6lW7Y&t=164s/maxresdefault.jpg)(https://www.youtube.com/watch?v=ves5Fj6lW7Y&t=164s)
+![watch the video](https://img.youtube.com/vi/ves5Fj6lW7Y/maxresdefault.jpg)(https://www.youtube.com/watch?v=ves5Fj6lW7Y&t=164s)
