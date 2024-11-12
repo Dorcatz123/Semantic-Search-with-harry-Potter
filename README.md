@@ -1,6 +1,6 @@
 # Semantic Search with Harry Potter
 
-![Harry-Potter](semantic_similarity distillbert/harry.jpg)
+![Harry-Potter](https://github.com/Dorcatz123/Semantic-Search-with-harry-Potter/semantic_similarity distillbert/harry.jpg)
 
 This is a question answering app using streamlit to answer any questions related to harry potter. It uses sentence transformers to embedd a given document and converts user query to do semantic serach on the embedded vectors to retrieve the answer.
 
